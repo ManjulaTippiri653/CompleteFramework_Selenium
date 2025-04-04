@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name = "Complete_Framework">
+
+	<listeners>
+	
+	<listener class-name = "com.project.Utilities.Reporting" />
+	
+	</listeners>
+	
+	<test name = "Banking app test">
+	
+	<parameter name = "browser" value = "chrome" />
+	
+		<classes>
+		
+		 	<class name = "com.project.testCases.TC_LoginTest_001" />
+			<!--  class name = "com.project.testCases.TC_LoginDDT_002" /> -->
+			
+		</classes>
+		
+	</test>
+	
+</suite>

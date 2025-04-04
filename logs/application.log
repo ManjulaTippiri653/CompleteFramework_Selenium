@@ -1,0 +1,63 @@
+2025-04-01 17:06:19,936{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - URL is Open
+2025-04-01 17:06:20,042{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Login test passed
+2025-04-01 17:07:23,846{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - URL is Open
+2025-04-01 17:07:23,951{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Login test passed
+2025-04-01 18:23:55,658{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - URL is Open
+2025-04-01 18:24:22,513{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - URL is Open
+2025-04-01 18:25:39,226{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - URL is Open
+2025-04-01 18:27:21,091{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - URL is Open
+2025-04-01 18:28:22,363{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - URL is Open
+2025-04-01 18:30:50,421{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - URL is Open
+2025-04-01 18:31:00,238{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - URL is Open
+2025-04-01 18:32:27,395{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - URL is Open
+2025-04-01 18:33:02,187{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - URL is Open
+2025-04-01 20:16:56,432{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - URL is Open
+2025-04-01 20:18:16,504{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - URL is Open
+2025-04-01 20:18:16,660{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Login test passed
+2025-04-01 20:43:16,695{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - URL is Open
+2025-04-01 20:43:16,896{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Login test passed
+2025-04-02 16:31:40,588{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - URL is Open
+2025-04-02 16:31:41,740{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Login test passed
+2025-04-02 16:53:09,014{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - URL is Open
+2025-04-02 16:59:56,244{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - URL is Open
+2025-04-02 20:18:01,451{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - URL is Open
+2025-04-03 15:15:42,166{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Entered Username
+2025-04-03 15:15:42,193{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Entered password
+2025-04-03 15:15:47,226{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Login successful
+2025-04-03 15:17:02,040{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Entered Username
+2025-04-03 15:17:02,076{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Entered password
+2025-04-03 15:17:07,117{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Login successful
+2025-04-03 15:22:03,944{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Entered Username
+2025-04-03 15:22:03,984{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Entered password
+2025-04-03 15:22:09,912{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Login successful
+2025-04-03 15:26:06,380{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Entered Username
+2025-04-03 15:26:06,406{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Entered password
+2025-04-03 15:26:12,889{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Login successful
+2025-04-03 15:26:12,896{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - login Successful
+2025-04-03 15:26:18,005{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Entered Username
+2025-04-03 15:26:18,027{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Entered password
+2025-04-03 15:26:23,350{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Login successful
+2025-04-03 15:26:24,576{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Entered Username
+2025-04-03 15:26:24,608{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Entered password
+2025-04-03 15:26:29,858{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Login successful
+2025-04-03 15:26:29,861{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - login Successful
+2025-04-03 16:59:24,364{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Entered Username
+2025-04-03 16:59:24,390{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Entered password
+2025-04-03 16:59:30,097{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Login successful
+2025-04-03 16:59:30,103{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - login Successful
+2025-04-03 16:59:31,502{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Entered Username
+2025-04-03 16:59:31,531{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Entered password
+2025-04-03 16:59:36,788{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Login successful
+2025-04-03 16:59:40,629{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Entered Username
+2025-04-03 16:59:41,211{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Entered password
+2025-04-03 16:59:53,233{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Login successful
+2025-04-03 16:59:53,237{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - login Successful
+2025-04-03 17:05:12,449{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - URL is Open
+2025-04-03 17:05:12,641{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Test Case Passed
+2025-04-03 17:05:12,641{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Login test passed
+2025-04-03 17:15:07,841{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - URL is Open
+2025-04-03 17:15:07,998{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Test Case Passed
+2025-04-03 17:15:07,998{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Login test passed
+2025-04-03 18:06:44,700{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - URL is Open
+2025-04-03 18:06:45,489{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Test Case Passed
+2025-04-03 18:06:45,489{yyyy-MM-dd HH:mm:ss} [main] INFO  com.project.testCases.BaseClass{36} - Login test passed

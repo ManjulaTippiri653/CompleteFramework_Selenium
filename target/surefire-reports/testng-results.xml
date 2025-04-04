@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-03T18:06:40 IST" name="Complete_Framework" finished-at="2025-04-03T18:06:45 IST" duration-ms="5122">
+    <groups>
+    </groups>
+    <test started-at="2025-04-03T18:06:40 IST" name="Banking app test" finished-at="2025-04-03T18:06:45 IST" duration-ms="5122">
+      <class name="com.project.testCases.TC_LoginTest_001">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.project.testCases.TC_LoginTest_001@a82c5f1]" started-at="2025-04-03T18:06:40 IST" name="setUp" finished-at="2025-04-03T18:06:44 IST" duration-ms="3462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Login()[pri:0, instance:com.project.testCases.TC_LoginTest_001@a82c5f1]" started-at="2025-04-03T18:06:44 IST" name="Login" finished-at="2025-04-03T18:06:45 IST" duration-ms="1453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.project.testCases.TC_LoginTest_001@a82c5f1]" started-at="2025-04-03T18:06:45 IST" name="tearDown" finished-at="2025-04-03T18:06:45 IST" duration-ms="135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.project.testCases.TC_LoginTest_001 -->
+    </test> <!-- Banking app test -->
+  </suite> <!-- Complete_Framework -->
+</testng-results>
